@@ -1,2 +1,2 @@
-Curso de Git \& GitHub para Ciência de Dados
+# Curso de Git \& GitHub para Ciência de Dados
 
